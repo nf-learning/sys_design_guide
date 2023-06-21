@@ -1,2 +1,2 @@
-# sys_design_guide
-Exercises from System Design Interview Guide
+# System Design Exercises
+Solution to exercises from System Design Interview Guide
